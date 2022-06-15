@@ -1,0 +1,25 @@
+.product {
+    box-shadow: 5px 3px 5px black;
+}
+
+.product img {
+    width: 100%;
+}
+
+.card-body {
+    padding: 0 10px;
+}
+
+.product button {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 10px;
+    padding: 10px 0;
+    outline: 0;
+    border: 0;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #FF7F50;
+    color: white;
+}

@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Aston Martin",
+      "price": 300000,
+      "img": "https://www.fckerbeckastonmartin.com/imagetag/9925/2/l/New-2019-Aston-Martin-Vantage.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Audi",
+      "price": 290000,
+      "img": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+    },
+    {
+      "id": 3,
+      "name": "BMW",
+      "price": 285000,
+      "img": "https://images.unsplash.com/photo-1555215695-3004980ad54e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Cadillac",
+      "price": 250000,
+      "img": "https://images.unsplash.com/photo-1457088846009-9dbcf9d7643d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Chevrolet",
+      "price": 260000,
+      "img": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=937&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Ferrari",
+      "price": 280000,
+      "img": "https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Ford",
+      "price": 270000,
+      "img": "https://images.unsplash.com/photo-1551830820-330a71b99659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Honda",
+      "price": 275000,
+      "img": "https://images.unsplash.com/photo-1578659258511-4a4e7dee7344?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Mercedes",
+      "price": 289000,
+      "img": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 10,
+      "name": "Nissan",
+      "price": 268000,
+      "img": "https://images.unsplash.com/photo-1629006286059-19b7bdccd512?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+    }   
+]
