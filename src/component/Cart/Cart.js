@@ -1,10 +1,23 @@
 import React from 'react';
+import './Cart.css';
 
-const Cart = () => {
-   
+const Cart = ({cart}) => {
+  
+
     return (
-        <div>
-            <h4>Name : </h4>
+        <div className="cart">
+           
+            <div className="ui-name-show">
+                <ul>
+                    <h3 >Cart List</h3>
+                    {
+                        cart.map(data=> <li
+                        >{data.name}</li> )
+                    }
+                </ul>
+            </div>
+
+            <button >Select One</button>
         </div>
     );
 };
