@@ -2,11 +2,12 @@ import React from 'react';
 import './Cart.css';
 
 const Cart = ({cart}) => {
-  
+
+
 
     return (
+
         <div className="cart">
-           
             <div className="ui-name-show">
                 <ul>
                     <h3 >Cart List</h3>
@@ -16,8 +17,9 @@ const Cart = ({cart}) => {
                     }
                 </ul>
             </div>
-
-            <button >Select One</button>
+            <div className="cartBtn">
+                <button>Choioce 1 for me</button>
+            </div>
         </div>
     );
 };
