@@ -23,6 +23,34 @@
 
 }
 
+.asking-part {
+    text-align: center;
+    margin-top: 20px;
+    background-color: tomato;
+    color: white;
+    padding: 10px 30px;
+}
+
+.asking-body {
+    width: 60%;
+    margin: auto;
+    padding-top: 20px;
+    text-align: start;
+}
+
+.asking-body label {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.asking-body p {
+    color: rgba(255, 255, 255, 0.801);
+}
+
+.asking-body p span {
+    color: white;
+}
+
 
 
 @media (max-width: 760px) {

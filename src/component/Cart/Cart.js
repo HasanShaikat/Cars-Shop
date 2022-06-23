@@ -3,8 +3,6 @@ import './Cart.css';
 
 const Cart = ({cart}) => {
 
-
-
     return (
 
         <div className="cart">
@@ -18,6 +16,7 @@ const Cart = ({cart}) => {
                 </ul>
             </div>
             <div className="cartBtn">
+
                 <button>Choioce 1 for me</button>
             </div>
         </div>
