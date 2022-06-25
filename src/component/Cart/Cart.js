@@ -2,6 +2,12 @@ import React from 'react';
 import './Cart.css';
 
 const Cart = ({cart}) => {
+    
+    const choice = ()=>{
+        if(cart){
+            alert("Please help. If click Choice 1 For Me button then how can i show One name")
+        }
+    }
 
     return (
 
@@ -10,14 +16,13 @@ const Cart = ({cart}) => {
                 <ul>
                     <h3 >Cart List</h3>
                     {
-                        cart.map(data=> <li
-                        >{data.name}</li> )
+                        cart.map(data=> <li key={data.name}>{data.name}</li> )
                     }
                 </ul>
             </div>
             <div className="cartBtn">
 
-                <button>Choioce 1 for me</button>
+                <button onClick={choice}>Choioce 1 for me</button>
             </div>
         </div>
     );
